@@ -1,0 +1,12 @@
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\bin\Debug\net7.0\GameEngine.deps.json
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\bin\Debug\net7.0\GameEngine.dll
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\bin\Debug\net7.0\GameEngine.pdb
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.csproj.AssemblyReference.cache
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.AssemblyInfoInputs.cache
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.AssemblyInfo.cs
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.csproj.CoreCompileInputs.cache
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.dll
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\refint\GameEngine.dll
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\GameEngine.pdb
+D:\Saeed Mardomi\Projects\Xunit\Game\GameEngine\obj\Debug\net7.0\ref\GameEngine.dll
